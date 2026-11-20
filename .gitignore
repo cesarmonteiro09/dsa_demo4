@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & Conda
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# SQLite database files generated during execution
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# macOS metadata files
+__MACOSX/
+._*
+.DS_Store
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
